@@ -1,0 +1,1 @@
+{"uuid":"ed011a4b-6404-4863-9c90-fd0431a3b3f4","name":"qaautomation.maret2023.BaseAPITest.loginAPI","description":"","start":1679112085864,"stop":1679112089228,"children":["a6126084-b667-4513-87f5-66be4dabdea3"],"befores":[{"name":"loginAPI","status":"passed","stage":"finished","description":"","start":1679112085864,"stop":1679112089228}]}

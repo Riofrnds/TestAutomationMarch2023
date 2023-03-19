@@ -1,0 +1,1 @@
+{"uuid":"611aef33-0cce-4087-bd2d-c3f399629d2e","name":"qaautomation.maret2023.BasedWebTestUsingThreadLocalParalel.setUp","description":"","start":1677989812760,"stop":1677989819033,"children":["92eb7a3f-5bce-4566-b458-2b1319295c5c"],"befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","start":1677989812761,"stop":1677989819033}]}

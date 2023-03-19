@@ -1,0 +1,1 @@
+{"uuid":"a7f67f33-a656-4f7b-aa63-467bc12d4560","name":"qaautomation.maret2023.Tugas2.tearDown","description":"","start":1678781580229,"stop":1678781580229,"children":["c8a07ef6-bca6-4fe7-9ce7-b1820ea73505"],"afters":[{"name":"tearDown","status":"broken","stage":"finished","description":"","start":1678781580229,"stop":1678781580229}]}

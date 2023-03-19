@@ -1,0 +1,1 @@
+{"uuid":"6afcda28-8a67-4782-933f-0e0d679f84fc","name":"qaautomation.maret2023.BasedWebTestUsingThreadLocalParalel.tearDown","description":"","start":1677905095487,"stop":1677905096091,"children":["a683d43d-7b3d-4f6a-9f04-e8b7e35d0cf7"],"afters":[{"name":"tearDown","status":"passed","stage":"finished","description":"","start":1677905095488,"stop":1677905096091}]}

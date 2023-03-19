@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="12328" started-at="2023-03-18T11:37:39 ICT" finished-at="2023-03-18T11:37:52 ICT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="12328" started-at="2023-03-18T11:37:39 ICT" finished-at="2023-03-18T11:37:52 ICT">
+      <class name="qaautomation.maret2023.APITestAfterRefactor">
+        <test-method status="PASS" signature="loginAPI()[pri:0, instance:qaautomation.maret2023.APITestAfterRefactor@6ed3f258]" name="loginAPI" is-config="true" duration-ms="3798" started-at="2023-03-18T11:37:39 ICT" finished-at="2023-03-18T11:37:43 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginAPI -->
+        <test-method status="PASS" signature="dashboardAPIUsingScehmaInCode()[pri:0, instance:qaautomation.maret2023.APITestAfterRefactor@6ed3f258]" name="dashboardAPIUsingScehmaInCode" duration-ms="2019" started-at="2023-03-18T11:37:43 ICT" finished-at="2023-03-18T11:37:45 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dashboardAPIUsingScehmaInCode -->
+        <test-method status="PASS" signature="loginAPI()[pri:0, instance:qaautomation.maret2023.APITestAfterRefactor@6ed3f258]" name="loginAPI" is-config="true" duration-ms="1685" started-at="2023-03-18T11:37:45 ICT" finished-at="2023-03-18T11:37:47 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginAPI -->
+        <test-method status="PASS" signature="dashboardAPIWithoutToken()[pri:0, instance:qaautomation.maret2023.APITestAfterRefactor@6ed3f258]" name="dashboardAPIWithoutToken" duration-ms="1300" started-at="2023-03-18T11:37:47 ICT" finished-at="2023-03-18T11:37:48 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dashboardAPIWithoutToken -->
+        <test-method status="PASS" signature="loginAPI()[pri:0, instance:qaautomation.maret2023.APITestAfterRefactor@6ed3f258]" name="loginAPI" is-config="true" duration-ms="1774" started-at="2023-03-18T11:37:48 ICT" finished-at="2023-03-18T11:37:50 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginAPI -->
+        <test-method status="PASS" signature="userAPI()[pri:0, instance:qaautomation.maret2023.APITestAfterRefactor@6ed3f258]" name="userAPI" duration-ms="1674" started-at="2023-03-18T11:37:50 ICT" finished-at="2023-03-18T11:37:52 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userAPI -->
+      </class> <!-- qaautomation.maret2023.APITestAfterRefactor -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
